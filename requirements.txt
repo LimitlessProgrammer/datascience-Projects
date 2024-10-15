@@ -1,6 +1,6 @@
-Pillow>=7.1.0,<10
 streamlit
 pandas
 plotly
 matplotlib
 seaborn
+Pillow
