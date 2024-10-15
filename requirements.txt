@@ -1,4 +1,4 @@
-pip install --upgrade Pillow
+Pillow>=9.0.0
 streamlit==1.26.0
 pandas==2.1.1
 plotly==5.17.0
